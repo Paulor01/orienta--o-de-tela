@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* Aparelho com a tela em pé (vertical) Imagem Retrato */
+
+body {
+    background-image: url(../imagens/cev-portrait.jpg);
+}
